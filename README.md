@@ -44,7 +44,7 @@ Skills Showcased:
 * Delete unused columns
 
 ### Coronavirus Data Exploration with SQL 
-**Code:** [`CovidDataExploration.sql`](../SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
+**Code:** [`CovidDataExploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 
 **Presentation:**
 
