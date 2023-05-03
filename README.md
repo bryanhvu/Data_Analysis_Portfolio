@@ -8,7 +8,7 @@ This repository serves as a showcase of my skills and a platform to share my pro
 
 Please feel free to explore my portfolio and reach out to me with any questions or opportunities to collaborate. Thank you for visiting!
 
-## Table of Contents (add section links)
+## Table of Contents
 * [About](#About)
 * [Projects](#Projects)
     * [Cleaning Nashville Housing Data](#nashville-housing-data-cleaning) 
