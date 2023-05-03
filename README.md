@@ -20,7 +20,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Projects
 
 
-### Nashville Housing Data Cleaning (fill out description)
+### Nashville Housing Data Cleaning
 **Code:** 
 **Presentation:**
 **Description:**
@@ -38,7 +38,7 @@ Skills Showcased:
 * Removing duplicates
 * Delete unused columns
 
-### Coronavirus Data Exploration with SQL (update description)
+### Coronavirus Data Exploration with SQL
 **Code:**
 **Presentation:**
 **Description:**
