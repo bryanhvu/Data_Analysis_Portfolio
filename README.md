@@ -11,7 +11,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Contents (add section links)
 * [About](#About)
 * [Projects](#Projects)
-    * [Cleaning Nashville Housing Data](#Nashville) 
+    * [Cleaning Nashville Housing Data](#nashville-housing-data-cleaning) 
     * [Coronavirus Data Exploration with SQL](#Coronavirus)
     * [Tableau Visualizations](#Tableau)
 * [Certificates](#Certificates)
@@ -19,8 +19,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Projects
 
-### Nashville Housing Data Cleaning <a name="Nashville"></a>
-**Code:** [NashvilleHousingDataCleaning.sql](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)
+### Nashville Housing Data Cleaning
+**Code:** [`NashvilleHousingDataCleaning.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)
 
 **Presentation:**
 
@@ -44,7 +44,7 @@ Skills Showcased:
 * Delete unused columns
 
 ### Coronavirus Data Exploration with SQL <a name="Coronavirus"></a>
-**Code:** [CovidDataExploration.sql](../SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
+**Code:** [`CovidDataExploration.sql`](../SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 
 **Presentation:**
 
