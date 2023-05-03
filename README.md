@@ -9,10 +9,10 @@ My Resume in pdf
 This repository serves to showcase my skills and as a platform to share my projects and to track my progress in Data Analytics topics.
 
 ## Table of Contents (add section links)
-* About
+* [About](#About)
 * Projects
-** Cleaning Nashville Housing Data 
-** Coronavirus Data Exploration with SQL
+    * Cleaning Nashville Housing Data 
+    * Coronavirus Data Exploration with SQL
 * Certificates
 * Contacts
 
@@ -60,7 +60,7 @@ Skills Showcased:
 
 
 ## Certificates
-[Google Data Analytics Professional Certificate](ttps://coursera.org/share/05b0e4709e7fa4a2bec481c8273b871d) (Apr 2023)
+[Google Data Analytics Professional Certificate](https://coursera.org/share/05b0e4709e7fa4a2bec481c8273b871d) (Apr 2023)
 
 ## Contacts
 * LinkedIn: [@bryanhvu](https://www.linkedin.com/in/bryan-vu-71b82113b/)
