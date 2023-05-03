@@ -11,16 +11,16 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Contents (add section links)
 * [About](#About)
 * [Projects](#Projects)
-    * [Cleaning Nashville Housing Data](#Nashville-Housing-Data-Cleaning) 
-    * [Coronavirus Data Exploration with SQL](#Coronavirus-Data-Exploration-with-SQL)
-    * [Tableau Visualizations](#Tableau-Visualizations)
+    * [Cleaning Nashville Housing Data](#Nashville) 
+    * [Coronavirus Data Exploration with SQL](#Coronavirus)
+    * [Tableau Visualizations](#Tableau)
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
 
 ## Projects
 
-### Nashville-Housing-Data-Cleaning
-**Code:** `(NashvilleHousingDataCleaning.sql)[../SQL Projects/Nashville Housing Project/NashvilleHousingDataCleaning.sql]`
+### Nashville Housing Data Cleaning <a name="Nashville"></a>
+**Code:** `[NashvilleHousingDataCleaning.sql](../SQL Projects/Nashville Housing Project/NashvilleHousingDataCleaning.sql)`
 **Presentation:**
 **Description:**
 **Skills:**
@@ -37,15 +37,15 @@ Skills Showcased:
 * Removing duplicates
 * Delete unused columns
 
-### Coronavirus-Data-Exploration-with-SQL
-**Code:** `(CovidDataExploration.sql)[../SQL Projects/Coronavirus Data 2023/CovidDataExploration.sql]`
+### Coronavirus Data Exploration with SQL <a name="Coronavirus"></a>
+**Code:** `[CovidDataExploration.sql](../SQL Projects/Coronavirus Data 2023/CovidDataExploration.sql)`
 **Presentation:**
 **Description:**
 **Skills:**
 **Technology:**
 **Results:**
 
-### Tableau-Visualizations
+### Tableau-Visualizations <a name="Tableau"></a>
 **Description:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
 
 Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/covid-deaths on April 25th, 2023.
