@@ -13,12 +13,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 * [Projects](#Projects)
     * [Cleaning Nashville Housing Data](#Nashville Housing Data Cleaning) 
     * [Coronavirus Data Exploration with SQL](#Coronavirus Data Exploration with SQL)
-    * [Tableau Visualizations](#Tableau Visualizations)
+    * [Tableau Visualizations](##Tableau Visualizations)
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
 
 ## Projects
-
 
 ### Nashville Housing Data Cleaning
 **Code:** 
