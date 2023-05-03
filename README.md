@@ -10,17 +10,18 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of Contents (add section links)
 * [About](#About)
-* Projects
-    * Cleaning Nashville Housing Data 
-    * Coronavirus Data Exploration with SQL
-* Certificates
-* Contacts
+* [Projects](#Projects)
+    * [Cleaning Nashville Housing Data](#Nashville Housing Data Cleaning) 
+    * [Coronavirus Data Exploration with SQL](#Coronavirus Data Exploration with SQL)
+    * [Tableau Visualizations](#Tableau Visualizations)
+* [Certificates](#Certificates)
+* [Contacts](#Contacts)
 
 ## Projects
 
 
 ### Nashville Housing Data Cleaning (fill out description)
-**Code:**
+**Code:** 
 **Presentation:**
 **Description:**
 **Skills:**
@@ -44,6 +45,9 @@ Skills Showcased:
 **Skills:**
 **Technology:**
 **Results:**
+
+### Tableau Visualizations
+**Description:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
 
 Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/covid-deaths on April 25th, 2023.
 
