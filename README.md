@@ -20,7 +20,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Projects
 
 ### Nashville Housing Data Cleaning <a name="Nashville"></a>
-**Code:** `[NashvilleHousingDataCleaning.sql](./SQL Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)`
+**Code:** `[NashvilleHousingDataCleaning.sql](./SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)`
 **Presentation:**
 **Description:**
 **Skills:**
