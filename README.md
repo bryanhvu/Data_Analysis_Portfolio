@@ -1,4 +1,4 @@
-# Data_Analysis_Portfolio
+# Data Analysis Portfolio
 
 ## About
 
@@ -20,7 +20,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Projects
 
 ### Nashville-Housing-Data-Cleaning
-**Code:** 
+**Code:** `(NashvilleHousingDataCleaning.sql)[../SQL Projects/Nashville Housing Project/NashvilleHousingDataCleaning.sql]`
 **Presentation:**
 **Description:**
 **Skills:**
@@ -38,7 +38,7 @@ Skills Showcased:
 * Delete unused columns
 
 ### Coronavirus-Data-Exploration-with-SQL
-**Code:**
+**Code:** `(CovidDataExploration.sql)[../SQL Projects/Coronavirus Data 2023/CovidDataExploration.sql]`
 **Presentation:**
 **Description:**
 **Skills:**
