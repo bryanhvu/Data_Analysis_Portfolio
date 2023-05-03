@@ -39,7 +39,7 @@ Skills Showcased:
 * Delete unused columns
 
 ### Coronavirus Data Exploration with SQL <a name="Coronavirus"></a>
-**Code:** `[CovidDataExploration.sql](../SQL Projects/Coronavirus Data 2023/CovidDataExploration.sql)`
+**Code:** [CovidDataExploration.sql](../SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 **Presentation:**
 **Description:**
 **Skills:**
