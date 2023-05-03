@@ -12,8 +12,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 * [About](#About)
 * [Projects](#Projects)
     * [Cleaning Nashville Housing Data](#Nashville%20Housing%20Data%20Cleaning) 
-    * [Coronavirus Data Exploration with SQL](#Coronavirus Data Exploration with SQL)
-    * [Tableau Visualizations](#Tableau Visualizations)
+    * [Coronavirus Data Exploration with SQL](#Coronavirus%20Data%20Exploration%20with%20SQL)
+    * [Tableau Visualizations](#Tableau%20Visualizations)
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
 
