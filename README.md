@@ -23,10 +23,15 @@ This repository serves to showcase my skills and as a platform to share my proje
 **Code:** [NashvilleHousingDataCleaning.sql](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)
 
 **Presentation:**
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
 
 Clean data regarding Nashville Housing. 
 
@@ -40,11 +45,17 @@ Skills Showcased:
 
 ### Coronavirus Data Exploration with SQL <a name="Coronavirus"></a>
 **Code:** [CovidDataExploration.sql](../SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
+
 **Presentation:**
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
 
 ### Tableau-Visualizations <a name="Tableau"></a>
 **Description:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
