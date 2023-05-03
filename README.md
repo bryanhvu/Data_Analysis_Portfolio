@@ -12,8 +12,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 * [About](#About)
 * [Projects](#Projects)
     * [Cleaning Nashville Housing Data](#nashville-housing-data-cleaning) 
-    * [Coronavirus Data Exploration with SQL](#Coronavirus)
-    * [Tableau Visualizations](#Tableau)
+    * [Coronavirus Data Exploration with SQL](#Coronavirus-Data-Exploration-with-SQL)
+    * [Tableau Visualizations](#Tableau-visualizations)
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
 
@@ -43,7 +43,7 @@ Skills Showcased:
 * Removing duplicates
 * Delete unused columns
 
-### Coronavirus Data Exploration with SQL <a name="Coronavirus"></a>
+### Coronavirus Data Exploration with SQL 
 **Code:** [`CovidDataExploration.sql`](../SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 
 **Presentation:**
@@ -57,7 +57,7 @@ Skills Showcased:
 **Results:**
 
 
-### Tableau-Visualizations <a name="Tableau"></a>
+### Tableau Visualizations
 **Description:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
 
 Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/covid-deaths on April 25th, 2023.
