@@ -11,6 +11,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 ## Table of Contents
 * [About](#About)
 * [Projects](#Projects)
+    * [Bike Sales Analysis and Dashboard in Excel](#Bike-Sales-Analysis-and-Dashboard-in-Excel)
     * [Cleaning Nashville Housing Data](#nashville-housing-data-cleaning) 
     * [Coronavirus Data Exploration with SQL](#Coronavirus-Data-Exploration-with-SQL)
     * [Tableau Visualizations](#Tableau-visualizations)
