@@ -1,6 +1,6 @@
 # About
 
-Clean, analyze, and create dashboard for data regarding Bike Sales.
+Clean and analyze data regarding Bike Sales and create a dashboard.
 
 ![](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/4925a3e791bdf33c8b4ef397951854d59931364b/Excel%20Projects/Bike%20Sales/Bike_Sales_Dashboard.png)
 
