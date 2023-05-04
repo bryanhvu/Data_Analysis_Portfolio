@@ -20,7 +20,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 ## Projects
 
 ### Bike Sales Analysis and Dashboard in Excel
-**Code:** [`Bike_Sales.xlsx`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/82747950b9bc205d8a3074d97989d004b9af4b5d/Excel%20Projects/Bike%20Sales/Bike_Sales.xlsx)
+**File:** [`Bike_Sales.xlsx`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/82747950b9bc205d8a3074d97989d004b9af4b5d/Excel%20Projects/Bike%20Sales/Bike_Sales.xlsx)
 
 **Description:** Clean and analyze data regarding Bike Sales and create a dashboard.
 
