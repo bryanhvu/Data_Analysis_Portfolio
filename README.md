@@ -60,19 +60,7 @@ Skills Showcased:
 
 **Presentation:**
 
-**Description:**
-
-**Skills:**
-
-**Technology:** SQL, Tableau
-
-**Results:**
-
-
-### Tableau Visualizations
-**Description:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
-
-Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/covid-deaths on April 25th, 2023.
+**Description:** Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/covid-deaths on April 25th, 2023.
 
 Skills Showcased:
 
@@ -83,6 +71,15 @@ Skills Showcased:
     Creating Views
     Converting Data
 
+**Skills:**
+
+**Technology:** SQL, Tableau
+
+**Results:**
+
+
+### Tableau Visualizations
+**Link:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
 
 
 
