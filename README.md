@@ -25,7 +25,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 
 **Description:** Clean and analyze data regarding Bike Sales and create a dashboard.
 
-**Skills:** VLOOKUP, Pivot Tables, Power Pivot, CUBE Formulas, Charts, Building Dashboard, Data Cleaning
+**Skills:** VLOOKUP, Pivot Tables, Power Pivot, CUBE Formulas, Charts, Building Dashboard, Data Cleaning, Flow Control
 
 **Technology:** Excel
 
@@ -55,7 +55,7 @@ Skills Showcased:
 * Removing duplicates
 * Delete unused columns
 
-### Coronavirus Data Exploration with SQL 
+### Coronavirus Data Exploration and Visualization 
 **Code:** [`CovidDataExploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 
 **Presentation:**
@@ -64,7 +64,7 @@ Skills Showcased:
 
 **Skills:**
 
-**Technology:**
+**Technology:** SQL, Tableau
 
 **Results:**
 
