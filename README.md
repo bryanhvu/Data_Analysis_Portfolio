@@ -12,8 +12,8 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 * [About](#About)
 * [Projects](#Projects)
     * [Bike Sales Analysis and Dashboard in Excel](#Bike-Sales-Analysis-and-Dashboard-in-Excel)
-    * [Cleaning Nashville Housing Data](#nashville-housing-data-cleaning) 
-    * [Coronavirus Data Exploration with SQL](#Coronavirus-Data-Exploration-with-SQL)
+    * [Cleaning Nashville Housing Data with SQL](#cleaning-nashville-housing-data-with-sql) 
+    * [Coronavirus Data Exploration and Visualization](#Coronavirus-Data-Exploration-and-Visualization)
     * [Tableau Visualizations](#Tableau-visualizations)
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
@@ -31,7 +31,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 
 **Results:**
 
-### Nashville Housing Data Cleaning
+### Cleaning Nashville Housing Data with SQL
 **Code:** [`NashvilleHousingDataCleaning.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)
 
 **Presentation:**
@@ -55,7 +55,7 @@ Skills Showcased:
 * Removing duplicates
 * Delete unused columns
 
-### Coronavirus Data Exploration and Visualization 
+### Coronavirus Data Exploration and Visualization
 **Code:** [`CovidDataExploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 
 **Presentation:**
