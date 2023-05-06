@@ -2,7 +2,7 @@
 
 Clean and analyze data regarding Bike Sales and create a dashboard.
 
-![](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/4925a3e791bdf33c8b4ef397951854d59931364b/Excel%20Projects/Bike%20Sales/Bike_Sales_Dashboard.png)
+![](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/06a858175321f3b62d83c3c7e8451466f479f20b/Excel%20Projects/Bike%20Sales/Bike_Sales_Dashboard_image.png)
 
 Skills Showcased:
 
@@ -16,8 +16,9 @@ Skills Showcased:
 * Pivot Charts
   * Formatting Charts
   * Creating Chart Templates
-* Data Model
 * Data Cleaning
   * Remove duplicates
   * Data modification
+* Flow Control
+* Data Model
 ```
