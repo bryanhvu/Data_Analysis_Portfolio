@@ -23,59 +23,39 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 ### Bike Sales Analysis and Dashboard in Excel
 **File:** [`Bike_Sales.xlsx`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/82747950b9bc205d8a3074d97989d004b9af4b5d/Excel%20Projects/Bike%20Sales/Bike_Sales.xlsx)
 
-**Description:** Clean and analyze data regarding Bike Sales and create a dashboard.
+**Description:** This project involves cleaning and analyzing a dataset on Bike Sales and creating a dashboard. The dataset includes information on customer demographics such as marital status, car ownership, commute distance, age and whether or not they have purchased a bike. By analyzing the data, we can extract meaningful insights that can aid in our understanding of the bike sales process and help us make informed business decisions.
 
 **Skills:** VLOOKUP, Pivot Tables, Power Pivot, CUBE Formulas, Charts, Building Dashboard, Data Cleaning, Flow Control
 
 **Technology:** Excel
 
-**Results:**
+**Results:** A cleaned excel spreadsheet with several constructed pivot tables and a filterable dashboard observing key metrics for the bike sale process.
 
 ### Cleaning Nashville Housing Data with SQL
 **Code:** [`NashvilleHousingDataCleaning.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)
 
-**Presentation:**
+**Description:** The Nashville housing dataset contains information about various housing properties in Nashville, Tennessee. The data has been collected from various sources and is not consistent in terms of format and quality. The objective of this project is to clean the data, making it more consistent and useable. 
 
-**Description:**
+**Skills:** data type conversions, populating empty data fields using inner joins, splitting string columns, data modification, removing duplicates, deleting unused columns
 
-**Skills:**
+**Technology:** SQL
 
-**Technology:**
+**Results:** A cleaner dataset ready for future analysis.
 
-**Results:**
-
-
-Clean data regarding Nashville Housing. 
-
-Skills Showcased:
-* Data type conversions
-* Populating empty data fields using inner joins
-* Splitting string columns
-* Modifying data validation fields for more consistent entries
-* Removing duplicates
-* Delete unused columns
 
 ### Coronavirus Data Exploration and Visualization
 **Code:** [`CovidDataExploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
 
 **Presentation:**
 
-**Description:** Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/covid-deaths on April 25th, 2023.
+**Description:** The Coronavirus pandemic has been one of the most significant events of the 21st century, affecting millions of people worldwide. The objective of this project is to explore the Coronavirus deaths data from the Our World in Data [website](https://ourworldindata.org/covid-deaths) taken on April 25th, 2023, and extract meaningful insights. 
 
-Skills Showcased:
 
-    Joins
-    Temp Tables
-    Window Functions
-    Aggregate Functions
-    Creating Views
-    Converting Data
-
-**Skills:**
+**Skills:** joins, temp tables, window functions, aggregate functions, creating views, and converting data
 
 **Technology:** SQL, Tableau
 
-**Results:**
+**Results:** A tableau dashboard visualizing total death counts and population infection rates broken down by continent and country.
 
 
 ### Tableau Visualizations
