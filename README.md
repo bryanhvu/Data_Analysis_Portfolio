@@ -86,7 +86,7 @@ Results:
 **Results:** A cleaned excel spreadsheet with several constructed pivot tables and a filterable dashboard observing key metrics for the bike sale process.
 
 ### Cleaning Nashville Housing Data with SQL
-**Code:** [`NashvilleHousingDataCleaning.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/NashvilleHousingDataCleaning.sql)
+**Code:** [`nashville_housing_data_cleaning.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/nashville_housing_data_cleaning.sql)
 
 **Description:** The Nashville housing dataset contains information about various housing properties in Nashville, Tennessee. The data has been collected from various sources and is not consistent in terms of format and quality. The objective of this project is to clean the data, making it more consistent and useable. 
 
@@ -98,7 +98,7 @@ Results:
 
 
 ### Coronavirus Data Exploration and Visualization
-**Code:** [`CovidDataExploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/CovidDataExploration.sql)
+**Code:** [`covid_data_exploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/covid_data_exploration.sql)
 
 **Presentation:**
 
