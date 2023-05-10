@@ -2,7 +2,7 @@
 
 ## About
 
-Hello, my name is Bryan! I am a Data Analyst with a Bachelor of Science degree in Computational Engineering from the University of Texas at Austin. After spending 2 years working as a research engineer for the Engineer Research and Development Center, I decided to pursue my passion for Data Analysis and am currently seeking a role in this field.
+Hello, my name is Bryan! I am an aspiring Data Analyst with a Bachelor of Science degree in Computational Engineering from the University of Texas at Austin. After spending 2 years working as a research engineer for the Engineer Research and Development Center, I decided to pursue my passion for Data Analysis and am currently seeking a role in this field.
 
 This repository serves as a showcase of my skills and a platform to share my projects and track my progress in Data Analytics topics. From data cleaning and exploration to visualization and statistical analysis, I am passionate about leveraging data to drive insights and decision-making.
 
