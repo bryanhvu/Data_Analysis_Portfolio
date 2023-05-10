@@ -13,7 +13,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 * [Python](#Python)
      * [Analyzing the Box Office](#analyzing-the-box-office)
      * [Boston Housing Price Model](#boston-housing-price-model)
-     * [Data Detective: Rediscovering the Power of Handwashing](#data-detective-rediscovering-the-power-of-handwashing)
+     * [Data Detective: Investigating Handwashing](#data-detective-investigating-handwashing)
      * [Google Play Store Analysis](#google-play-store-analysis)
 * [SQL](#SQL)   
      * [Cleaning Nashville Housing Data with SQL](#cleaning-nashville-housing-data-with-sql) 
@@ -50,9 +50,9 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 
 **Results:**
 
-### Data Detective: Rediscovering the Power of Handwashing
+### Data Detective: Investigating Handwashing
 
-**Code:** [`handwashing_discovery.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/The%20Power%20of%20Handwashing/Handwashing_Discovery.ipynb)
+**Code:** [`investigating_handwashing.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/1e4e87d41354c6c2978b707a9e707c538a48b667/Python%20Projects/The%20Power%20of%20Handwashing/investigating_handwashing.ipynb)
 
 **Description:** In the 1800s, people attributed illnesses to "bad air" or evil spirits due to their lack of understanding. Dr Semmelweis was a medical professional who noticed that many women in maternity wards were dying from childbed fever, and he suspected that the procedures at Vienna General Hospital were flawed. The aim of this project is to explore Dr Semmelweis' data and make a compelling argument using it. 
 
