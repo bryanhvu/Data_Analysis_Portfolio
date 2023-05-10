@@ -15,7 +15,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
       * [Analyzing the Box Office](#analyzing-the-box-office)
       * [Boston Housing Price Model](#boston-housing-price-model)
       * [Data Detective: Rediscovering the Power of Handwashing](#data-detective-rediscovering-the-power-of-handwashing)
-      * [Google Play Store App Analysis](#google-play-store-app-analysis)
+      * [Google Play Store Analysis](#google-play-store-analysis)
     * SQL   
       * [Coronavirus Data Exploration and Visualization](#Coronavirus-Data-Exploration-and-Visualization)
       * [Cleaning Nashville Housing Data with SQL](#cleaning-nashville-housing-data-with-sql) 
@@ -43,7 +43,7 @@ Results:
 
 Code:
 
-Description: The aim of this project is to develop a model for estimating the prices of residential properties in Boston based on their characteristics, including the number of rooms, local income level, and student-to-teacher ratios in nearby schools. The project involves analyzing and exploring the Boston house price dataset, splitting it for training and testing, running a multivariable regression, evaluating the model's coefficients and residuals, and using data transformation techniques to improve the model's performance. Ultimately, the goal is to create a model that can accurately estimate the price of a property based on its characteristics.
+Description: The aim of this project is to develop a model for estimating the prices of residential properties in Boston based on their characteristics. The project involves analyzing and exploring the Boston house price dataset, splitting it for training and testing, running a multivariable regression, evaluating the model's coefficients and residuals, and using data transformation techniques to improve the model's performance. Ultimately, the goal is to create a model that can accurately estimate the price of a property based on its characteristics.
 
 Skills: multivariable regression, data exploration, data training and testing, evaluating and interpretting a regression model, data transformation, data cleaning, data visualization
 
@@ -63,7 +63,7 @@ Technology: Python, Pandas, sklearn, scipy, numpy, Matplotlib, Plotly, Seaborn
 
 Results:
 
-### Google Play Store App Analysis
+### Google Play Store Analysis
 
 Code:
 
