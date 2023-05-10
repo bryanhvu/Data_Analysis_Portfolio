@@ -28,51 +28,51 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 
 ### Analyzing the Box Office
 
-Code: [`analyzing_the_box_office.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Analyzing%20the%20Box%20Office/analyzing_the_box_office.ipynb)
+**Code:** [`analyzing_the_box_office.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Analyzing%20the%20Box%20Office/analyzing_the_box_office.ipynb)
 
-Description: This project analyzes movie budget and revenue data, scraped from The Numbers [website](https://www.the-numbers.com/), to determine if higher film budgets lead to more revenue in the box office. The goal is to understand whether movie studios should invest more money in their films to generate more revenue.
+**Description:** This project analyzes movie budget and revenue data, scraped from The Numbers [website](https://www.the-numbers.com/), to determine if higher film budgets lead to more revenue in the box office. The goal is to understand whether movie studios should invest more money in their films to generate more revenue.
 
-Skills: webscraping, data visualization, linear regression, data cleaning
+**Skills:** webscraping, data visualization, linear regression, data cleaning
 
-Technology: Python, Pandas, scikit-learn, Seaborn, Matplotlib
+**Technology:** Python, Pandas, scikit-learn, Seaborn, Matplotlib
 
-Results:
+**Results:**
 
 ### Boston Housing Price Model
 
-Code: [`boston_housing_price_model`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Boston%20Housing%20Price%20Model/Boston_Housing_Price_Model.ipynb)
+**Code:** [`boston_housing_price_model`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Boston%20Housing%20Price%20Model/Boston_Housing_Price_Model.ipynb)
 
-Description: The aim of this project is to develop a model for estimating the prices of residential properties in Boston based on their characteristics. The project involves analyzing and exploring the Boston house price dataset, splitting it for training and testing, running a multivariable regression, evaluating the model's coefficients and residuals, and using data transformation techniques to improve the model's performance. Ultimately, the goal is to create a model that can accurately estimate the price of a property based on its characteristics.
+**Description:** The aim of this project is to develop a model for estimating the prices of residential properties in Boston based on their characteristics. The project involves analyzing and exploring the Boston house price dataset, splitting it for training and testing, running a multivariable regression, evaluating the model's coefficients and residuals, and using data transformation techniques to improve the model's performance. Ultimately, the goal is to create a model that can accurately estimate the price of a property based on its characteristics.
 
-Skills: multivariable regression, data exploration, data training and testing, evaluating and interpretting a regression model, data transformation, data cleaning, data visualization
+**Skills:** multivariable regression, data exploration, data training and testing, evaluating and interpretting a regression model, data transformation, data cleaning, data visualization
 
-Technology: Python, scikit-learn, Pandas, Plotly
+**Technology:** Python, scikit-learn, Pandas, Plotly
 
-Results:
+**Results:**
 
 ### Data Detective: Rediscovering the Power of Handwashing
 
-Code: [`handwashing_discovery.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/The%20Power%20of%20Handwashing/Handwashing_Discovery.ipynb)
+**Code:** [`handwashing_discovery.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/The%20Power%20of%20Handwashing/Handwashing_Discovery.ipynb)
 
-Description: In the 1800s, people attributed illnesses to "bad air" or evil spirits due to their lack of understanding. Dr Semmelweis was a medical professional who noticed that many women in maternity wards were dying from childbed fever, and he suspected that the procedures at Vienna General Hospital were flawed. The aim of this project is to explore Dr Semmelweis' data and make a compelling argument using it. 
+**Description:** In the 1800s, people attributed illnesses to "bad air" or evil spirits due to their lack of understanding. Dr Semmelweis was a medical professional who noticed that many women in maternity wards were dying from childbed fever, and he suspected that the procedures at Vienna General Hospital were flawed. The aim of this project is to explore Dr Semmelweis' data and make a compelling argument using it. 
 
-Skills: t-test, stastical analysis, data visualization, data cleaning, making data-driven arguments
+**Skills:** t-test, stastical analysis, data visualization, data cleaning, making data-driven arguments
 
-Technology: Python, Pandas, sklearn, scipy, numpy, Matplotlib, Plotly, Seaborn
+**Technology:** Python, Pandas, sklearn, scipy, numpy, Matplotlib, Plotly, Seaborn
 
-Results:
+**Results:**
 
 ### Google Play Store Analysis
 
-Code: [`google_play_store_analysis.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Google%20Play%20Store%20Analysis/google_play_store_analysis.ipynb)
+**Code:** [`google_play_store_analysis.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Google%20Play%20Store%20Analysis/google_play_store_analysis.ipynb)
 
-Description: This project involves comparing thousands of apps in the Google Play Store to gain insights into different app categories, their competitiveness, and opportunities based on popularity. It also involves analyzing data to determine the impact of making an app paid versus free, determining the reasonable cost for a paid app, identifying the paid apps with the highest revenue, and evaluating how many paid apps will recoup their development costs based on sales revenue.
+**Description:** This project involves comparing thousands of apps in the Google Play Store to gain insights into different app categories, their competitiveness, and opportunities based on popularity. It also involves analyzing data to determine the impact of making an app paid versus free, determining the reasonable cost for a paid app, identifying the paid apps with the highest revenue, and evaluating how many paid apps will recoup their development costs based on sales revenue.
 
-Skills: data exploration, data cleaning, data visualization, data wrangling
+**Skills:** data exploration, data cleaning, data visualization, data wrangling
 
-Technology: Python, Pandas, Plotly
+**Technology:** Python, Pandas, Plotly
 
-Results:
+**Results:**
 
 ## SQL
 
