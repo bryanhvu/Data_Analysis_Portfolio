@@ -10,22 +10,21 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 
 ## Table of Contents
 * [About](#About)
-* [Projects](#Projects)
-    * Python
+* [Python](#Python)
       * [Analyzing the Box Office](#analyzing-the-box-office)
       * [Boston Housing Price Model](#boston-housing-price-model)
       * [Data Detective: Rediscovering the Power of Handwashing](#data-detective-rediscovering-the-power-of-handwashing)
       * [Google Play Store Analysis](#google-play-store-analysis)
-    * SQL   
-      * [Coronavirus Data Exploration and Visualization](#Coronavirus-Data-Exploration-and-Visualization)
+* [SQL](#SQL)   
       * [Cleaning Nashville Housing Data with SQL](#cleaning-nashville-housing-data-with-sql) 
-    * Excel
+      * [Coronavirus Data Exploration and Visualization](#Coronavirus-Data-Exploration-and-Visualization)
+* [Excel](#Excel)
       * [Bike Sales Analysis and Dashboard in Excel](#Bike-Sales-Analysis-and-Dashboard-in-Excel) 
-    * [Tableau Visualizations](#Tableau-visualizations)
+* Tableau Public Profile [here](https://public.tableau.com/app/profile/bryan.vu)
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
 
-## Projects
+## Python
 
 ### Analyzing the Box Office
 
@@ -74,16 +73,8 @@ Skills: data exploration, data cleaning, data visualization, data wrangling
 Technology: Python, Pandas, Plotly
 
 Results:
-### Bike Sales Analysis and Dashboard in Excel
-**File:** [`bike_sales.xlsx`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/82747950b9bc205d8a3074d97989d004b9af4b5d/Excel%20Projects/Bike%20Sales/Bike_Sales.xlsx)
 
-**Description:** This project involves cleaning and analyzing a dataset on Bike Sales and creating a dashboard. The dataset includes information on customer demographics such as marital status, car ownership, commute distance, age and whether or not they have purchased a bike. By analyzing the data, we can extract meaningful insights that can aid in our understanding of the bike sales process and help us make informed business decisions.
-
-**Skills:** VLOOKUP, Pivot Tables, Power Pivot, CUBE Formulas, Charts, Building Dashboard, Data Cleaning, Flow Control
-
-**Technology:** Excel
-
-**Results:** A cleaned excel spreadsheet with several constructed pivot tables and a filterable dashboard observing key metrics for the bike sale process.
+## SQL
 
 ### Cleaning Nashville Housing Data with SQL
 **Code:** [`nashville_housing_data_cleaning.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/main/SQL%20Projects/Nashville%20Housing%20Project/nashville_housing_data_cleaning.sql)
@@ -95,7 +86,6 @@ Results:
 **Technology:** SQL
 
 **Results:** A cleaner dataset ready for future analysis.
-
 
 ### Coronavirus Data Exploration and Visualization
 **Code:** [`covid_data_exploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/cd6b727c307bcce307b039535961643f20e03e8f/SQL%20Projects/Coronavirus%20Data%202023/covid_data_exploration.sql)
@@ -112,8 +102,20 @@ Results:
 **Results:** A tableau dashboard visualizing total death counts and population infection rates broken down by continent and country.
 
 
-### Tableau Visualizations
-**Link:** [Tableau Public Account](https://public.tableau.com/app/profile/bryan.vu)
+## Excel
+
+### Bike Sales Analysis and Dashboard in Excel
+**File:** [`bike_sales.xlsx`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/82747950b9bc205d8a3074d97989d004b9af4b5d/Excel%20Projects/Bike%20Sales/Bike_Sales.xlsx)
+
+**Description:** This project involves cleaning and analyzing a dataset on Bike Sales and creating a dashboard. The dataset includes information on customer demographics such as marital status, car ownership, commute distance, age and whether or not they have purchased a bike. By analyzing the data, we can extract meaningful insights that can aid in our understanding of the bike sales process and help us make informed business decisions.
+
+**Skills:** VLOOKUP, Pivot Tables, Power Pivot, CUBE Formulas, Charts, Building Dashboard, Data Cleaning, Flow Control
+
+**Technology:** Excel
+
+**Results:** A cleaned excel spreadsheet with several constructed pivot tables and a filterable dashboard observing key metrics for the bike sale process.
+
+
 
 
 
