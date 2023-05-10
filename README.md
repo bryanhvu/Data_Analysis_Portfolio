@@ -14,7 +14,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
     * Python
       * [Analyzing the Box Office](analyzing-the-box-office)
       * [Boston Housing Price Model](boston-housing-price-model)
-      * [Data Detective: Rediscovering the Power of Handwashing](data-detective:-rediscovering-the-power-of-handwashing)
+      * [Data Detective: Rediscovering the Power of Handwashing](data-detective-rediscovering-the-power-of-handwashing)
       * [Google Play Store App Analysis](google-play-store-app-analysis)   
     * [Bike Sales Analysis and Dashboard in Excel](#Bike-Sales-Analysis-and-Dashboard-in-Excel)
     * [Cleaning Nashville Housing Data with SQL](#cleaning-nashville-housing-data-with-sql) 
