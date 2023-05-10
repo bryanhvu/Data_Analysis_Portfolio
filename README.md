@@ -40,7 +40,7 @@ Please feel free to explore my portfolio and reach out to me with any questions 
 
 ### Boston Housing Price Model
 
-**Code:** [`boston_housing_price_model`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Boston%20Housing%20Price%20Model/Boston_Housing_Price_Model.ipynb)
+**Code:** [`boston_housing_price_model.ipynb`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/503dbd00bf1ca2220302f5a3af8b711f188687be/Python%20Projects/Boston%20Housing%20Price%20Model/Boston_Housing_Price_Model.ipynb)
 
 **Description:** The aim of this project is to develop a model for estimating the prices of residential properties in Boston based on their characteristics. The project involves analyzing and exploring the Boston house price dataset, splitting it for training and testing, running a multivariable regression, evaluating the model's coefficients and residuals, and using data transformation techniques to improve the model's performance. Ultimately, the goal is to create a model that can accurately estimate the price of a property based on its characteristics.
 
