@@ -98,7 +98,7 @@ Results:
 
 
 ### Coronavirus Data Exploration and Visualization
-**Code:** [`covid_data_exploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/50cbca891dc15c8e82a8eb16d91771e6c0e4156b/SQL%20Projects/Coronavirus%20Data%202023/covid_data_exploration.sql)
+**Code:** [`covid_data_exploration.sql`](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/cd6b727c307bcce307b039535961643f20e03e8f/SQL%20Projects/Coronavirus%20Data%202023/covid_data_exploration.sql)
 
 **Presentation:**
 
