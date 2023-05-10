@@ -1,6 +1,6 @@
 # About
 
-Clean and analyze data regarding Bike Sales and create a dashboard.
+Cleaned, analyzed and visualized data regarding Bike Sales to gain insights on purchasing factors.
 
 ![](https://github.com/bryanhvu/Data_Analysis_Portfolio/blob/06a858175321f3b62d83c3c7e8451466f479f20b/Excel%20Projects/Bike%20Sales/Bike_Sales_Dashboard_image.png)
 
