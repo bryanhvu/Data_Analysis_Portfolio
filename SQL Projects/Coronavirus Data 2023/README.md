@@ -6,10 +6,11 @@ Explore Data regarding Coronavirus Deaths taken from https://ourworldindata.org/
 
 Skills Showcased:
 ```
-* Joins
-* Temp Tables
+* SQL Joins
+* Common Table Expressions (CTEs)
+* Temporary Tables
 * Window Functions
 * Aggregate Functions
 * Creating Views
-* Converting Data
+* Data Type Conversion
 ```
